@@ -1,6 +1,10 @@
 my first git file.
 
+<<<<<<< HEAD
 my first edit .
 second edit!
+=======
+my first edit .New Branch created.
+>>>>>>> git_2
 
 
